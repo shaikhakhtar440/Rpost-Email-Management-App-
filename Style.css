@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   font-family: Arial, sans-serif;
   text-align: center;
@@ -19,4 +20,27 @@ header p {
 
 .logo img {
   margin-top: 20px;
+=======
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  background-color: #f7f7f7;
+}
+
+header h1 {
+  color: #333;
+}
+
+header p {
+  color: #555;
+}
+
+.prototype {
+  margin: 40px 0;
+}
+
+.logo img {
+  margin-top: 20px;
+>>>>>>> 2659666c1de78bc4322c15f551c03d235eda3859
 }
